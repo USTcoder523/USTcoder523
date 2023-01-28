@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @USTcoder523
 - 👀 I’m interested in data mining, machine learning, deep learning, NLP, competitive programming,blockchain and cryptocurrencies, and algorithmic trading
 - 🌱 I’m currently learning computer vision(object detection, image captioning), and Leetcoding :))
-- Road to Kaggle Expert
+- :sparkler: Road to Kaggle Expert
 - 📫 How to reach me ckyuad@connect.ust.hk
 
 <!---
