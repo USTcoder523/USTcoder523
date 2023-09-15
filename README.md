@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++'s application in quantitative finance, and Leetcoding :))
 - :sparkler: Road to Kaggle Expert
 - Taking a Master Degree in Financial Engineering in Imperial College London !
-- 📫 How to reach me ckyuad@connect.ust.hk
+- 📫 How to reach me jackyu1108@gmail.com
 
 <!---
 USTcoder523/USTcoder523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
