@@ -2,7 +2,7 @@
 - 👀 I’m interested in data mining, machine learning, deep learning, NLP, competitive programming,blockchain and cryptocurrencies, and algorithmic trading
 - 🌱 I’m currently learning C++'s application in quantitative finance, and Leetcoding :))
 - :sparkler: Road to Kaggle Expert
-- Taking a Master Degree in Financial Engineering in Imperial College London !
+- :books: Taking a Master Degree in Financial Engineering in Imperial College London !
 - 📫 How to reach me jackyu1108@gmail.com
 
 <!---
